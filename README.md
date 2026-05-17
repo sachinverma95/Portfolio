@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Sachin vema— Dev Portfolio
+# 🌌 Sachin verma— Dev Portfolio
 
 ### *A high-performance, data-driven developer portfolio powered by live API integrations, immersive animations, and a modern React stack.*
 
@@ -464,7 +464,7 @@ This project is open source and available under the **MIT License**.
 
 <div align="center">
 
-### 🌌 Built with passion by **Sangam Singh**
+### 🌌 Built with passion by **Sachin Verma**
 
 *Data Scientist • ML Engineer • Full Stack Developer • AI/ML Enthusiast*
 
