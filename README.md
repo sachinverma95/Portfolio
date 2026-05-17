@@ -14,11 +14,11 @@
 [![Supabase](https://img.shields.io/badge/Supabase-2.0-3ECF8E?style=for-the-badge&logo=supabase&logoColor=3ECF8E&labelColor=0D1117)](https://supabase.com/)
 
 <br/>
+[![GitHub Stars](https://img.shields.io/github/stars/sachinverma95/Portfolio?style=social)](https://github.com/sachinverma95)
 
-[![GitHub Stars](https://img.shields.io/github/stars/sangamsingh18/sangam.ai?style=social)](https://github.com/sangamsingh18)
-[![LinkedIn](https://img.shields.io/badge/Connect-sangam--singh-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sangam-singh-94a52633b)
-[![Portfolio Live](https://img.shields.io/badge/🚀_Live_Portfolio-Visit-8B5CF6?style=flat)](https://github.com/sangamsingh18)
+[![LinkedIn](https://img.shields.io/badge/Connect-Sachin%20Verma-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
+[![Portfolio Live](https://img.shields.io/badge/🚀_Live_Portfolio-Visit-8B5CF6?style=flat)](https://sachin8.online)
 </div>
 
 ---
