@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Sangam Singh — Dev Portfolio
+# 🌌 Sachin vema— Dev Portfolio
 
 ### *A high-performance, data-driven developer portfolio powered by live API integrations, immersive animations, and a modern React stack.*
 
