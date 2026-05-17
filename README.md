@@ -16,7 +16,7 @@
 <br/>
 [![GitHub Stars](https://img.shields.io/github/stars/sachinverma95/Portfolio?style=social)](https://github.com/sachinverma95)
 
-[![LinkedIn](https://img.shields.io/badge/Connect-Sachin%20Verma-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/Connect-Sachin%20Verma-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sachin-verma-682384373)
 
 [![Portfolio Live](https://img.shields.io/badge/🚀_Live_Portfolio-Visit-8B5CF6?style=flat)](https://sachin8.online)
 </div>
