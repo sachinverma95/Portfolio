@@ -134,7 +134,7 @@ const AboutSection = () => {
               </p>
               <p className="text-foreground/80 leading-relaxed text-base mt-4 relative z-10">
                 I am proficient in backend development with{" "}
-                <span className="text-primary">Express.js, JWT authentication, and Prisma ORM</span>, having built complex full-stack marketplaces and event systems.
+                <span className="text-primary">Express.js, JWT authentication</span>, having built complex full-stack marketplaces and event systems.
               </p>
             </motion.div>
 
