@@ -53,7 +53,7 @@ const Navbar = () => {
                 />
               </span>
               <span className="flex flex-col leading-none">
-                <span className="text-xl font-bold font-display gradient-text">Sachin95</span>
+                <span className="text-xl font-bold font-display gradient-text">Sachin</span>
                 <span className="mt-1 text-[10px] uppercase tracking-[0.38em] text-foreground/55">
                   Portfolio
                 </span>
